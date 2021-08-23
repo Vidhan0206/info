@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @js-vidhan
 - 👀 I’m interested in Programming
-- 🌱 I’m currently learning android studio and C++
+- 🌱 I’m currently working in software development
 - 📫 How to reach me ... contact me through my mail - js.vidhan@gmail.com or contact me through github
 
 <!---
