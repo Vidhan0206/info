@@ -1,6 +1,7 @@
-- 👋 Hi, I’m @js-vidhan
+- 👋 Hi, I’m @Vidhan-Laddha
 - 👀 I’m interested in Programming
-- 🌱 I’m currently working in creating softwares
+- 🌱 I’m currently learning java
+- 💕 Open to collabrate on projects
 - 📫 How to reach me ... contact me through my mail - js.vidhan@gmail.com or contact me through github
 
 <!---
