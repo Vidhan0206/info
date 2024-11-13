@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Vidhan-Laddha
+- 👋 Hi, I’m @Vidhan-laddha
 - 👀 I’m interested in Programming
 - 🌱 I’m currently learning java
 - 💕 Open to collabrate on projects
