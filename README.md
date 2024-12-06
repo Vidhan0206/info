@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Vidhan laddha
 - 👀 I’m interested in Programming
-- 🌱 I’m currently learning java
+- 🌱 I’m currently learning python
 - 💕 Open to collabrate on projects
 - 📫 How to reach me ... contact me through my mail - js.vidhan@gmail.com or contact me through github
 
